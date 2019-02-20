@@ -1,0 +1,8 @@
+Origin: salem dam boy (Change this)
+Label: salem dam's boy Repo (Change this)
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: CBloo's Repo (Change this)
